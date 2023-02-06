@@ -239,7 +239,7 @@ if ($_SESSION['status_login']==false) {
                                 href="http://ahmadsaugi.com">A. Saugi</a></p>
                     </div>
                 </div>
-            </footer> -->
+            </footer> --
         </div>
     </div>
 
