@@ -247,7 +247,7 @@ if ($_SESSION['status_login']==false) {
     <script src="assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
     <script src="assets/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Modal -->
+       <!-- End Modal -->
      <div class="modal fade text-left" id="inlineForm" tabindex="-1"
                 role="dialog" aria-labelledby="myModalLabel33" aria-hidden="true">
                  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable"
